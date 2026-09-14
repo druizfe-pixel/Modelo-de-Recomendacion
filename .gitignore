@@ -28,3 +28,11 @@ Thumbs.db
 # Archivos temporales
 *.tmp
 *.bak
+
+# VS Code workspace
+*.code-workspace
+
+# Datasets grandes - no versionar
+DataSetLimpio.csv
+src/Data/DataSetLimpio.csv
+src/ItemBased_CF/DataSetLimpio.csv
